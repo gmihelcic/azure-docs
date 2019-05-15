@@ -229,7 +229,7 @@ In this section, you enable Britta Simon to use Azure single sign-on by granting
 ### Create SAP HANA test user
 
 To enable Azure AD users to sign in to SAP HANA, you must provision them in SAP HANA.
-SAP HANA supports **just-in-time provisioning**, which is by enabled by default.
+SAP HANA supports **just-in-time provisioning**, which is enabled by default.
 
 If you need to create a user manually, take the following steps:
 
